@@ -1,0 +1,23 @@
+
+
+.navbar {
+    background-color: #eee;
+    padding: 0.5rem;
+  }
+  
+  .nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-list li {
+    display: inline;
+    margin-right: 1rem;
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: #333;
+  }
+  
